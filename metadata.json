@@ -1,0 +1,5 @@
+{
+  "name": "Boutique Music MVP",
+  "description": "An MVP for a music investment and gamification platform. Users can invest in artists by purchasing tokens, and participate in campaigns to boost their artists' streams and earn rewards.",
+  "requestFramePermissions": []
+}
